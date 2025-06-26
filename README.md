@@ -1,7 +1,7 @@
 ## INSTALLATION
 
 ```
-git clone
+git clone https://github.com/19seniman/meme-G.git
 ```
 ```
 npm install
