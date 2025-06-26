@@ -1,3 +1,17 @@
+## DESCRIPTION
+
+▶️ Register Account ( open your browser ) : https://goblin.meme (https://goblin.meme/?referral_code=GTDJVR)
+
+🔘 Connect X
+
+🔘 Go To Box
+
+🔘 Claim & Miining Daily
+
+✅ Done
+
+
+
 ## INSTALLATION
 
 ```
