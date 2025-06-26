@@ -22,6 +22,9 @@ cd meme-G
 ```
 ```
 npm install
+npm install dotenv
+npm install cheerio
+npm install user-agents
 ```
 ```
 nano .env
