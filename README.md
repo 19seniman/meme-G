@@ -18,6 +18,9 @@
 git clone https://github.com/19seniman/meme-G.git
 ```
 ```
+cd meme-G
+```
+```
 npm install
 ```
 ```
